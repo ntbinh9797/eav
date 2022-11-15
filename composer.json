@@ -4,9 +4,6 @@
     "keywords": ["eav", "laravel"],
     "license": "MIT",
     "require": {
-        "league/csv":"^9.0",
-        "laravel/legacy-factories": "^1.1",
-        "sunel/json-api-resources":">=0.1.0"
     },
     "require-dev": {
         "mockery/mockery": "~1.0",
